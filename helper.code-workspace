@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "src/helper"
+		},
+		{
+			"path": "src/reducers"
+		},
+		{
+			"path": "src/store"
+		},
+		{
+			"path": "src/task"
+		}
+	]
+}

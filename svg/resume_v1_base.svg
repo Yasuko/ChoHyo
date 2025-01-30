@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="resume_v1_base.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="324.38524"
+     inkscape:cy="258.44753"
+     inkscape:window-width="1920"
+     inkscape:window-height="976"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer14" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="背景">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="レイヤー">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.40838px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.301046"
+         x="17.915295"
+         y="14.67837"
+         id="text3701"><tspan
+           sodipodi:role="line"
+           id="tspan3699"
+           style="font-size:2.40838px;stroke-width:0.301046"
+           x="17.915295"
+           y="14.67837">ふりがな</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.94651px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.368313"
+         x="17.233494"
+         y="18.713299"
+         id="text5733"><tspan
+           sodipodi:role="line"
+           id="tspan5731"
+           style="font-size:2.94651px;stroke-width:0.368313"
+           x="17.233494"
+           y="18.713299">氏</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.72083px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.340103"
+         x="25.36319"
+         y="18.61035"
+         id="text7319"><tspan
+           sodipodi:role="line"
+           id="tspan7317"
+           style="font-size:2.72083px;stroke-width:0.340103"
+           x="25.36319"
+           y="18.61035">名</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.78101px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.347625"
+         x="40.83353"
+         y="35.057533"
+         id="text14563"><tspan
+           sodipodi:role="line"
+           id="tspan14561"
+           style="font-size:2.78101px;stroke-width:0.347625"
+           x="40.83353"
+           y="35.057533">年</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.84407px;line-height:1.25;font-family:sans-serif;stroke-width:0.355507"
+         x="48.861473"
+         y="35.055466"
+         id="text16305"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.355507"
+           x="48.861473"
+           y="35.055466"
+           id="tspan16307">月</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.2502px;line-height:1.25;font-family:sans-serif;stroke-width:0.406274"
+         x="56.599892"
+         y="35.230797"
+         id="text17963"><tspan
+           sodipodi:role="line"
+           id="tspan17961"
+           style="stroke-width:0.406274"
+           x="56.599892"
+           y="35.230797">日</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.92166px;line-height:1.25;font-family:sans-serif;stroke-width:0.365206"
+         x="59.564983"
+         y="35.209755"
+         id="text18297"><tspan
+           sodipodi:role="line"
+           id="tspan18295"
+           style="stroke-width:0.365206"
+           x="59.564983"
+           y="35.209755">生</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82122px;line-height:1.25;font-family:sans-serif;stroke-width:0.352652"
+         x="66.597832"
+         y="35.049141"
+         id="text18883"><tspan
+           sodipodi:role="line"
+           id="tspan18881"
+           style="stroke-width:0.352652"
+           x="66.597832"
+           y="35.049141">(満</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.70308px;line-height:1.25;font-family:sans-serif;stroke-width:0.337884"
+         x="75.829773"
+         y="34.94738"
+         id="text19613"><tspan
+           sodipodi:role="line"
+           id="tspan19611"
+           style="stroke-width:0.337884"
+           x="75.829773"
+           y="34.94738">歳)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.19785px;line-height:1.25;font-family:sans-serif;stroke-width:0.274731"
+         x="82.685043"
+         y="32.58427"
+         id="text20534"><tspan
+           sodipodi:role="line"
+           id="tspan20532"
+           style="stroke-width:0.274731"
+           x="82.685043"
+           y="32.58427">※</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.65719px;line-height:1.25;font-family:sans-serif;stroke-width:0.332148"
+         x="84.482155"
+         y="36.284279"
+         id="text21102"><tspan
+           sodipodi:role="line"
+           id="tspan21100"
+           style="stroke-width:0.332148"
+           x="84.482155"
+           y="36.284279">男・女</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.66519px;line-height:1.25;font-family:sans-serif;stroke-width:0.333148"
+         x="112.05962"
+         y="41.016052"
+         id="text22018"><tspan
+           sodipodi:role="line"
+           id="tspan22016"
+           style="stroke-width:0.333148"
+           x="112.05962"
+           y="41.016052">電話</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.71868px;line-height:1.25;font-family:sans-serif;stroke-width:0.339834"
+         x="111.98505"
+         y="58.847183"
+         id="text22846"><tspan
+           sodipodi:role="line"
+           id="tspan22844"
+           style="stroke-width:0.339834"
+           x="111.98505"
+           y="58.847183">電話</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.05973px;line-height:1.25;font-family:sans-serif;stroke-width:0.257466"
+         x="65.853653"
+         y="62.516888"
+         id="text24302"><tspan
+           sodipodi:role="line"
+           id="tspan24300"
+           style="stroke-width:0.257466"
+           x="65.853653"
+           y="62.516888">(現住所以外に連絡先を希望する場合のみ記入)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.32294px;line-height:1.25;font-family:sans-serif;stroke-width:0.290367"
+         x="18.011475"
+         y="40.886284"
+         id="text26352"><tspan
+           sodipodi:role="line"
+           id="tspan26350"
+           style="stroke-width:0.290367"
+           x="18.011475"
+           y="40.886284">ふりがな</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80487px;line-height:1.25;font-family:sans-serif;stroke-width:0.350608"
+         x="17.169146"
+         y="45.097088"
+         id="text26620"><tspan
+           sodipodi:role="line"
+           id="tspan26618"
+           style="stroke-width:0.350608"
+           x="17.169146"
+           y="45.097088">現住所</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.34997px;line-height:1.25;font-family:sans-serif;stroke-width:0.293746"
+         x="28.315145"
+         y="44.903332"
+         id="text27122"><tspan
+           sodipodi:role="line"
+           id="tspan27120"
+           style="stroke-width:0.293746"
+           x="28.315145"
+           y="44.903332">〒</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.41561px;line-height:1.25;font-family:sans-serif;stroke-width:0.301951"
+         x="17.982941"
+         y="59.009247"
+         id="text27632"><tspan
+           sodipodi:role="line"
+           id="tspan27630"
+           style="stroke-width:0.301951"
+           x="17.982941"
+           y="59.009247">ふりがな</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.74083px;line-height:1.25;font-family:sans-serif;stroke-width:0.342603"
+         x="17.291922"
+         y="63.106987"
+         id="text28142"><tspan
+           sodipodi:role="line"
+           id="tspan28140"
+           style="stroke-width:0.342603"
+           x="17.291922"
+           y="63.106987">連絡先</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.34997px;line-height:1.25;font-family:sans-serif;stroke-width:0.293746"
+         x="28.311838"
+         y="62.973019"
+         id="text28716"><tspan
+           sodipodi:role="line"
+           id="tspan28714"
+           style="stroke-width:0.293746"
+           x="28.311838"
+           y="62.973019">〒</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80239px;line-height:1.25;font-family:sans-serif;stroke-width:0.350297"
+         x="20.76272"
+         y="80.41526"
+         id="text33074"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.350297"
+           x="20.76272"
+           y="80.41526"
+           id="tspan33076">年</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.8411px;line-height:1.25;font-family:sans-serif;stroke-width:0.355137"
+         x="30.833963"
+         y="80.383041"
+         id="text33610"><tspan
+           sodipodi:role="line"
+           id="tspan33608"
+           style="stroke-width:0.355137"
+           x="30.833963"
+           y="80.383041">月</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.79938px;line-height:1.25;font-family:sans-serif;stroke-width:0.349921"
+         x="59.688053"
+         y="80.418175"
+         id="text35517"><tspan
+           sodipodi:role="line"
+           id="tspan35515"
+           style="stroke-width:0.349921"
+           x="59.688053"
+           y="80.418175">学</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.89756px;line-height:1.25;font-family:sans-serif;stroke-width:0.362194"
+         x="65.067192"
+         y="80.46032"
+         id="text36037"><tspan
+           sodipodi:role="line"
+           id="tspan36035"
+           style="stroke-width:0.362194"
+           x="65.067192"
+           y="80.46032">歴</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.09127px;line-height:1.25;font-family:sans-serif;stroke-width:0.386408"
+         x="67.486252"
+         y="80.437798"
+         id="text36745"><tspan
+           sodipodi:role="line"
+           id="tspan36743"
+           style="stroke-width:0.386408"
+           x="67.486252"
+           y="80.437798">・</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80542px;line-height:1.25;font-family:sans-serif;stroke-width:0.350677"
+         x="70.458763"
+         y="80.362862"
+         id="text37211"><tspan
+           sodipodi:role="line"
+           id="tspan37209"
+           style="stroke-width:0.350677"
+           x="70.458763"
+           y="80.362862">職</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.77022px;line-height:1.25;font-family:sans-serif;stroke-width:0.346276"
+         x="75.854652"
+         y="80.46978"
+         id="text37665"><tspan
+           sodipodi:role="line"
+           id="tspan37663"
+           style="stroke-width:0.346276"
+           x="75.854652"
+           y="80.46978">歴など</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.73323px;line-height:1.25;font-family:sans-serif;stroke-width:0.341653"
+         x="85.493309"
+         y="80.390228"
+         id="text38713"><tspan
+           sodipodi:role="line"
+           id="tspan38711"
+           style="stroke-width:0.341653"
+           x="85.493309"
+           y="80.390228">(格別にまとめて書く)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265233px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.440499,11.28065 V 73.510388"
+       id="path110" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.457521,73.4772 H 138.2182 V 37.61807"
+       id="path154" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.265257px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 138.35097,37.589231 H 15.308118"
+       id="path382" />
+    <path
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.31726,37.526873 V 11.366891"
+       id="path1432" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.296516,11.4134 H 15.399015"
+       id="path1713" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.394437,30.301932 h 79.88211"
+       id="path1841" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.394437,55.664033 H 138.08059"
+       id="path1843" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 110.1547,37.641276 V 73.405182"
+       id="path1845" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 82.09288,30.225664 v 7.321743"
+       id="path1847" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26449;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52898, 0.26449;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 15.333757,59.986131 H 110.10777"
+       id="path1849" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 15.488306,41.905298 H 110.10777"
+       id="path1851" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.53, 0.265;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 15.394437,15.73471 h 79.88211"
+       id="path1853" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="履歴">
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="履歴テキスト" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.488306,76.44584 H 138.17446"
+       id="path31943" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.315039,82.38288 H 138.00119"
+       id="path31943-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.416078,89.399431 H 138.10223"
+       id="path31943-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.488308,96.415373 H 138.17446"
+       id="path31943-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.458761,103.43217 H 138.14492"
+       id="path31943-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.447575,110.71937 H 138.13372"
+       id="path31943-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.518097,118.001 H 138.20425"
+       id="path31943-07" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.502168,125.01987 H 138.18832"
+       id="path31943-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.504236,132.0358 H 138.19039"
+       id="path31943-58" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.495968,139.31827 H 138.18213"
+       id="path31943-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.456694,146.60695 H 138.14284"
+       id="path31943-01" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.414744,153.89064 H 138.1009"
+       id="path31943-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.482107,160.90924 H 138.16826"
+       id="path31943-86" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.482107,168.19525 H 138.16826"
+       id="path31943-44" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.48004,175.48039 H 138.16619"
+       id="path31943-45" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.535242,182.76821 H 138.2214"
+       id="path31943-05" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.439306,190.0519 H 138.12546"
+       id="path31943-42" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264915px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.362171,197.33949 H 138.35636"
+       id="path31943-94" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 138.22351,76.315281 V 197.2947"
+       id="path32288" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 35.412021,76.494068 V 197.40187"
+       id="path32288-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 28.935505,76.39266 v 120.9078"
+       id="path32288-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265135px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.43844,76.314449 V 197.47443"
+       id="path32288-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="学歴">
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="学歴テキスト">
+      <text
+         xml:space="preserve"
+         style="font-size:2.80669px;line-height:1.25;font-family:sans-serif;stroke-width:0.350834"
+         x="166.76134"
+         y="6.7316136"
+         id="text42702"><tspan
+           sodipodi:role="line"
+           id="tspan42700"
+           style="stroke-width:0.350834"
+           x="166.76134"
+           y="6.7316136">年</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.86089px;line-height:1.25;font-family:sans-serif;stroke-width:0.35761"
+         x="176.81783"
+         y="6.7461581"
+         id="text43552"><tspan
+           sodipodi:role="line"
+           id="tspan43550"
+           style="stroke-width:0.35761"
+           x="176.81783"
+           y="6.7461581">月</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80668px;line-height:1.25;font-family:sans-serif;stroke-width:0.350835"
+         x="166.79459"
+         y="56.104206"
+         id="text47120"><tspan
+           sodipodi:role="line"
+           id="tspan47118"
+           style="stroke-width:0.350835"
+           x="166.79459"
+           y="56.104206">年</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.88022px;line-height:1.25;font-family:sans-serif;stroke-width:0.360026"
+         x="176.7988"
+         y="56.128361"
+         id="text47696"><tspan
+           sodipodi:role="line"
+           id="tspan47694"
+           style="stroke-width:0.360026"
+           x="176.7988"
+           y="56.128361">月</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80668px;line-height:1.25;font-family:sans-serif;stroke-width:0.350835"
+         x="222.86891"
+         y="56.129211"
+         id="text48536"><tspan
+           sodipodi:role="line"
+           id="tspan48534"
+           style="stroke-width:0.350835"
+           x="222.86891"
+           y="56.129211">免</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.92571px;line-height:1.25;font-family:sans-serif;stroke-width:0.365712"
+         x="228.23586"
+         y="56.124428"
+         id="text49200"><tspan
+           sodipodi:role="line"
+           id="tspan49198"
+           style="stroke-width:0.365712"
+           x="228.23586"
+           y="56.124428">許</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.10117px;line-height:1.25;font-family:sans-serif;stroke-width:0.387645"
+         x="230.71317"
+         y="56.120632"
+         id="text49622"><tspan
+           sodipodi:role="line"
+           id="tspan49620"
+           style="stroke-width:0.387645"
+           x="230.71317"
+           y="56.120632">・</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.82525px;line-height:1.25;font-family:sans-serif;stroke-width:0.353156"
+         x="233.69315"
+         y="56.140594"
+         id="text50208"><tspan
+           sodipodi:role="line"
+           id="tspan50206"
+           style="stroke-width:0.353156"
+           x="233.69315"
+           y="56.140594">資</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.76087px;line-height:1.25;font-family:sans-serif;stroke-width:0.345108"
+         x="239.09621"
+         y="56.11874"
+         id="text50454"><tspan
+           sodipodi:role="line"
+           id="tspan50452"
+           style="stroke-width:0.345108"
+           x="239.09621"
+           y="56.11874">格</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.79938px;line-height:1.25;font-family:sans-serif;stroke-width:0.349921"
+         x="205.27734"
+         y="6.6623077"
+         id="text35517-0"><tspan
+           sodipodi:role="line"
+           id="tspan35515-2"
+           style="stroke-width:0.349921"
+           x="205.27734"
+           y="6.6623077">学</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.89756px;line-height:1.25;font-family:sans-serif;stroke-width:0.362194"
+         x="210.65648"
+         y="6.7044525"
+         id="text36037-6"><tspan
+           sodipodi:role="line"
+           id="tspan36035-5"
+           style="stroke-width:0.362194"
+           x="210.65648"
+           y="6.7044525">歴</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.09127px;line-height:1.25;font-family:sans-serif;stroke-width:0.386408"
+         x="213.07555"
+         y="6.6819305"
+         id="text36745-9"><tspan
+           sodipodi:role="line"
+           id="tspan36743-4"
+           style="stroke-width:0.386408"
+           x="213.07555"
+           y="6.6819305">・</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.80542px;line-height:1.25;font-family:sans-serif;stroke-width:0.350677"
+         x="216.04805"
+         y="6.6069946"
+         id="text37211-4"><tspan
+           sodipodi:role="line"
+           id="tspan37209-3"
+           style="stroke-width:0.350677"
+           x="216.04805"
+           y="6.6069946">職</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.77022px;line-height:1.25;font-family:sans-serif;stroke-width:0.346276"
+         x="221.44394"
+         y="6.713913"
+         id="text37665-4"><tspan
+           sodipodi:role="line"
+           id="tspan37663-8"
+           style="stroke-width:0.346276"
+           x="221.44394"
+           y="6.713913">歴など</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.73323px;line-height:1.25;font-family:sans-serif;stroke-width:0.341653"
+         x="231.0826"
+         y="6.6343613"
+         id="text38713-2"><tspan
+           sodipodi:role="line"
+           id="tspan38711-4"
+           style="stroke-width:0.341653"
+           x="231.0826"
+           y="6.6343613">(格別にまとめて書く)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.41075,2.5112276 H 283.62642"
+       id="path39495" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.37366,8.4484556 H 283.58933"
+       id="path39495-3" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.42897,15.732755 H 283.64464"
+       id="path39495-36" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.40854,23.020438 H 283.62421"
+       id="path39495-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.38736,30.305528 H 283.60303"
+       id="path39495-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.34059,37.59242 H 283.55626"
+       id="path39495-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.34059,44.877773 H 283.55626"
+       id="path39495-22" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.48091,52.161302 H 283.69658"
+       id="path39495-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.42302,58.100333 H 283.6387"
+       id="path39495-83" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.34059,65.116929 H 283.55626"
+       id="path39495-5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.38737,72.401511 H 283.60304"
+       id="path39495-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.43413,79.420438 H 283.6498"
+       id="path39495-73" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.3406,86.433669 H 283.55627"
+       id="path39495-78" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.43413,93.448723 H 283.6498"
+       id="path39495-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.29435,100.46662 H 283.80148"
+       id="path39495-54" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 283.66983,2.378936 V 100.5285"
+       id="path39801" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 181.39874,2.5592747 V 100.57035"
+       id="path39801-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 174.92105,2.4658145 V 100.47689"
+       id="path39801-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.42664,2.3800931 V 100.47179"
+       id="path39801-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="志望動機">
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="志望動機テキスト">
+      <text
+         xml:space="preserve"
+         style="font-size:2.69186px;line-height:1.25;font-family:sans-serif;stroke-width:0.336481"
+         x="164.74014"
+         y="107.20634"
+         id="text52590"><tspan
+           sodipodi:role="line"
+           id="tspan52588"
+           style="stroke-width:0.336481"
+           x="164.74014"
+           y="107.20634">志望の動機、特技、好きな学科、アピールポイントなど</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.67053px;line-height:1.25;font-family:sans-serif;stroke-width:0.333814"
+         x="246.43848"
+         y="107.17593"
+         id="text53674"><tspan
+           sodipodi:role="line"
+           id="tspan53672"
+           style="stroke-width:0.333814"
+           x="246.43848"
+           y="107.17593">通勤時間</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.84655px;line-height:1.25;font-family:sans-serif;stroke-width:0.355818"
+         x="256.88525"
+         y="115.17204"
+         id="text54176"><tspan
+           sodipodi:role="line"
+           id="tspan54174"
+           style="stroke-width:0.355818"
+           x="256.88525"
+           y="115.17204">約</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.02647px;line-height:1.25;font-family:sans-serif;stroke-width:0.378307"
+         x="266.63431"
+         y="115.22727"
+         id="text54696"><tspan
+           sodipodi:role="line"
+           id="tspan54694"
+           style="stroke-width:0.378307"
+           x="266.63431"
+           y="115.22727">時間</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.81282px;line-height:1.25;font-family:sans-serif;stroke-width:0.351601"
+         x="279.60641"
+         y="115.20852"
+         id="text55216"><tspan
+           sodipodi:role="line"
+           id="tspan55214"
+           style="stroke-width:0.351601"
+           x="279.60641"
+           y="115.20852">分</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.71372px;line-height:1.25;font-family:sans-serif;stroke-width:0.339214"
+         x="246.382"
+         y="123.38326"
+         id="text55990"><tspan
+           sodipodi:role="line"
+           id="tspan55988"
+           style="stroke-width:0.339214"
+           x="246.382"
+           y="123.38326">扶養家族</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.6822px;line-height:1.25;font-family:sans-serif;stroke-width:0.335274"
+         x="261.59021"
+         y="123.38456"
+         id="text56456"><tspan
+           sodipodi:role="line"
+           id="tspan56454"
+           style="stroke-width:0.335274"
+           x="261.59021"
+           y="123.38456">(配偶者を除く)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.03958px;line-height:1.25;font-family:sans-serif;stroke-width:0.379946"
+         x="276.26712"
+         y="129.34776"
+         id="text56826"><tspan
+           sodipodi:role="line"
+           id="tspan56824"
+           style="stroke-width:0.379946"
+           x="276.26712"
+           y="129.34776">人</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.76795px;line-height:1.25;font-family:sans-serif;stroke-width:0.345993"
+         x="249.2021"
+         y="136.88158"
+         id="text57358"><tspan
+           sodipodi:role="line"
+           id="tspan57356"
+           style="stroke-width:0.345993"
+           x="249.2021"
+           y="136.88158">配偶者</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.18532px;line-height:1.25;font-family:sans-serif;stroke-width:0.273164"
+         x="247.81461"
+         y="146.70976"
+         id="text57728"><tspan
+           sodipodi:role="line"
+           id="tspan57726"
+           style="stroke-width:0.273164"
+           x="247.81461"
+           y="146.70976">※</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.70256px;line-height:1.25;font-family:sans-serif;stroke-width:0.337819"
+         x="250.89731"
+         y="146.62521"
+         id="text58248"><tspan
+           sodipodi:role="line"
+           id="tspan58246"
+           style="stroke-width:0.337819"
+           x="250.89731"
+           y="146.62521">有・無</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.70678px;line-height:1.25;font-family:sans-serif;stroke-width:0.338347"
+         x="261.48596"
+         y="136.95926"
+         id="text58834"><tspan
+           sodipodi:role="line"
+           id="tspan58832"
+           style="stroke-width:0.338347"
+           x="261.48596"
+           y="136.95926">配偶者の扶養義務</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.50568px;line-height:1.25;font-family:sans-serif;stroke-width:0.313209"
+         x="266.58652"
+         y="146.84833"
+         id="text59656"><tspan
+           sodipodi:role="line"
+           id="tspan59654"
+           style="stroke-width:0.313209"
+           x="266.58652"
+           y="146.84833">※</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.77723px;line-height:1.25;font-family:sans-serif;stroke-width:0.347153"
+         x="269.68381"
+         y="146.69679"
+         id="text59894"><tspan
+           sodipodi:role="line"
+           id="tspan59892"
+           style="stroke-width:0.347153"
+           x="269.68381"
+           y="146.69679">有・無</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+         x="227.40627"
+         y="116.74332"
+         id="text61296"><tspan
+           sodipodi:role="line"
+           id="tspan61294"
+           style="stroke-width:0.264583"
+           x="227.40627"
+           y="116.74332" /></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.45016,103.43305 H 283.68292"
+       id="path51198" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26475px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.4233,152.00954 H 283.81006"
+       id="path51198-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264611px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 283.67776,103.30118 v 48.827"
+       id="path51200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264197px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 245.89911,103.33394 v 48.75052"
+       id="path51200-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264684px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.43588,103.30026 v 48.84043"
+       id="path51200-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 245.96328,119.62474 H 283.6664"
+       id="path51372" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 283.65917,132.03845 H 245.92298"
+       id="path51374" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 261.01145,131.99401 v 20.10833"
+       id="path51376" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="希望">
+    <g
+       inkscape:groupmode="layer"
+       id="layer12"
+       inkscape:label="希望テキスト">
+      <text
+         xml:space="preserve"
+         style="font-size:2.31506px;line-height:1.25;font-family:sans-serif;stroke-width:0.289382"
+         x="163.59975"
+         y="159.09276"
+         id="text63322"><tspan
+           sodipodi:role="line"
+           id="tspan63320"
+           style="stroke-width:0.289382"
+           x="163.59975"
+           y="159.09276">本人希望記入欄 (特に給与・職種・勤務時間・勤務地・その他について希望などがあれば記入)</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.43529,154.90941 V 197.285"
+       id="path62753" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 283.6781,155.00296 v 42.37559"
+       id="path62753-6" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.30764,160.91175 H 283.66363"
+       id="path62755" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.31694,168.19892 H 283.67293"
+       id="path62755-8" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.31952,175.48555 H 283.67551"
+       id="path62755-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.35985,182.77219 H 283.71583"
+       id="path62755-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.41717,190.05572 H 283.77316"
+       id="path62755-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264746px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.3035,197.34133 H 283.81039"
+       id="path62755-0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264746px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 161.3035,154.97298 H 283.81039"
+       id="path62755-03" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="顔写真">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529166, 0.264583;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 104.51,3.5826823 4.2e-4,30.7635417 h 20.75325 V 3.5553385 Z"
+       id="path64224"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="タイトル・ヘッダ">
+    <text
+       xml:space="preserve"
+       style="font-size:2.9257px;line-height:1.25;font-family:sans-serif;stroke-width:0.365712"
+       x="64.996887"
+       y="8.1109362"
+       id="text66700"><tspan
+         sodipodi:role="line"
+         id="tspan66698"
+         style="stroke-width:0.365712"
+         x="64.996887"
+         y="8.1109362">平成</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.79699px;line-height:1.25;font-family:sans-serif;stroke-width:0.349623"
+       x="73.241501"
+       y="8.0825491"
+       id="text67088"><tspan
+         sodipodi:role="line"
+         id="tspan67086"
+         style="stroke-width:0.349623"
+         x="73.241501"
+         y="8.0825491">年</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82744px;line-height:1.25;font-family:sans-serif;stroke-width:0.353429"
+       x="78.648148"
+       y="8.0511131"
+       id="text67458"><tspan
+         sodipodi:role="line"
+         id="tspan67456"
+         style="stroke-width:0.353429"
+         x="78.648148"
+         y="8.0511131">月</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.32645px;line-height:1.25;font-family:sans-serif;stroke-width:0.415805"
+       x="83.602821"
+       y="8.3296871"
+       id="text67944"><tspan
+         sodipodi:role="line"
+         id="tspan67942"
+         style="stroke-width:0.415805"
+         x="83.602821"
+         y="8.3296871">日</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.81513px;line-height:1.25;font-family:sans-serif;stroke-width:0.351891"
+       x="86.659462"
+       y="8.1256895"
+       id="text68398"><tspan
+         sodipodi:role="line"
+         id="tspan68396"
+         style="stroke-width:0.351891"
+         x="86.659462"
+         y="8.1256895">現在</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.11009px;line-height:1.25;font-family:sans-serif;stroke-width:0.638759"
+       x="16.510576"
+       y="7.5537052"
+       id="text69414"><tspan
+         sodipodi:role="line"
+         id="tspan69412"
+         style="stroke-width:0.638759"
+         x="16.510576"
+         y="7.5537052">履</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.22096px;line-height:1.25;font-family:sans-serif;stroke-width:0.652618"
+       x="27.157305"
+       y="7.6740999"
+       id="text69868"><tspan
+         sodipodi:role="line"
+         id="tspan69866"
+         style="stroke-width:0.652618"
+         x="27.157305"
+         y="7.6740999">歴</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.08406px;line-height:1.25;font-family:sans-serif;stroke-width:0.635506"
+       x="37.992012"
+       y="7.590919"
+       id="text70400"><tspan
+         sodipodi:role="line"
+         id="tspan70398"
+         style="stroke-width:0.635506"
+         x="37.992012"
+         y="7.590919">書</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:'MS Mincho';-inkscape-font-specification:'MS Mincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="25.003124"
+       y="26.326042"
+       id="admin_name"><tspan
+         sodipodi:role="line"
+         id="_name"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'MS Mincho';-inkscape-font-specification:'MS Mincho, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="25.003124"
+         y="26.326042">うんこまんうんこまん</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.39875px;line-height:1.25;font-family:sans-serif;stroke-width:0.0999475"
+       x="30.997198"
+       y="14.778284"
+       id="user_name_ruby"><tspan
+         sodipodi:role="line"
+         id="tspan6211"
+         style="stroke-width:0.0999475"
+         x="30.997198"
+         y="14.778284">うんこまん</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.07221px;line-height:1.25;font-family:sans-serif;stroke-width:0.169675"
+       x="19.208059"
+       y="49.894123"
+       id="user_address"
+       transform="scale(0.97157263,1.0292591)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.169675"
+         x="19.208059"
+         y="49.894123"
+         id="tspan11864">咨あああああああああああああああ</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="フッター">
+    <text
+       xml:space="preserve"
+       style="font-size:2.15492px;line-height:1.25;font-family:sans-serif;stroke-width:0.269364"
+       x="18.94854"
+       y="202.46925"
+       id="text71921"><tspan
+         sodipodi:role="line"
+         id="tspan71919"
+         style="stroke-width:0.269364"
+         x="18.94854"
+         y="202.46925">記入上の注意</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.76515px;line-height:1.25;font-family:sans-serif;stroke-width:0.345642"
+       x="35.561028"
+       y="202.76074"
+       id="text72651"><tspan
+         sodipodi:role="line"
+         id="tspan72649"
+         style="stroke-width:0.345642"
+         x="35.561028"
+         y="202.76074">①．</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="40.297485"
+       y="202.4998"
+       id="text73381"><tspan
+         sodipodi:role="line"
+         id="tspan73379"
+         style="stroke-width:0.264583"
+         x="40.297485"
+         y="202.4998">筆記具以外の青又は黒の筆記具で記入。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.74665px;line-height:1.25;font-family:sans-serif;stroke-width:0.343329"
+       x="35.505653"
+       y="207.51624"
+       id="text73891"><tspan
+         sodipodi:role="line"
+         id="tspan73889"
+         style="stroke-width:0.343329"
+         x="35.505653"
+         y="207.51624">③．</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="40.410404"
+       y="207.37854"
+       id="text74455"><tspan
+         sodipodi:role="line"
+         id="tspan74453"
+         style="stroke-width:0.264583"
+         x="40.410404"
+         y="207.37854">※印のところは、該当するものを○で囲む</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.90411px;line-height:1.25;font-family:sans-serif;stroke-width:0.363012"
+       x="80.857285"
+       y="202.83925"
+       id="text76207"><tspan
+         sodipodi:role="line"
+         id="tspan76205"
+         style="stroke-width:0.363012"
+         x="80.857285"
+         y="202.83925">②．</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="85.415588"
+       y="202.53854"
+       id="text76519"><tspan
+         sodipodi:role="line"
+         id="tspan76517"
+         style="stroke-width:0.264583"
+         x="85.415588"
+         y="202.53854">数字はアラビア数字で、文字はくずさずに正確に書く。</tspan></text>
+  </g>
+</svg>
